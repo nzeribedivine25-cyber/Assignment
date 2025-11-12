@@ -103,3 +103,43 @@
 
 
 
+# motors = ["Lexus", "Toyota", "Camry", "Camry", "Benz"]
+# motors[0] ='GLK'
+# motors[2] ='Lexus'
+# print(motors)
+
+# motors = ["Lexus", "Toyota", "Camry", "Camry", "Benz"]
+# motors.sort()
+# print(motors)
+
+# motors = ["Lexus", "Toyota", "Camry", "Camry", "Benz"]
+# motors.sort(reverse=True)
+# print(motors)
+
+# motors = ["lexus", "Toyota", "Camry", "Camry", "Benz"]
+# print(motors[3])
+
+# motors = []
+# motors.append('LEXUS')
+# motors.append('CAMRY')
+# motors.append('GLK')
+# motors.append('GLK')
+# motors.apfpend('TOYOTA')
+# print(motors)
+
+# fruits = ["apple", "apple", "bama", "cherry"]
+# fruits.pop(3)
+# fruits.remove("apple")
+# print(fruits)
+
+#range
+# fruits = ['apple' , 'apple' , 'banana' ,'cherry']
+# for fruit in range (len(fruits)):
+#   print(fruits[fruit])
+
+
+#slicing
+fruits = ['apple' , 'apple' , 'banana' ,'cherry']
+myfruits = fruits[2:3]
+print(myfruits)
+
